@@ -1,4 +1,4 @@
-# SignalMirror
+# E-Commerce Demo With Angular Signals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
